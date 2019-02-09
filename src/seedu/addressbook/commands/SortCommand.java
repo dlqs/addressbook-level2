@@ -16,7 +16,7 @@ public class SortCommand extends Command {
     public static final String COMMAND_WORD = "sort";
 
     public static final String MESSAGE_USAGE = COMMAND_WORD
-            + ": Sorts then lists the persons in address book by alphabetical order.\n"
+            + ": Lists the persons in address book sorted by alphabetical order.\n"
             + "Example: " + COMMAND_WORD;
 
 
